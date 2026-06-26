@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /Home.html
+
+Sitemap: https://www.climelectra.es/sitemap.xml
